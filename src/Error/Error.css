@@ -1,0 +1,11 @@
+.error-container{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    color: red;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
